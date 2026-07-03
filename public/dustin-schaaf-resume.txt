@@ -1,0 +1,12 @@
+Dustin Schaaf - Programmer
+
+Focus
+Frontend fundamentals, backend basics, project structure, and practical problem solving.
+
+Portfolio Projects
+- Portfolio Website: React, TypeScript, Vite, responsive UI.
+- Recipe Search App: TypeScript, API integration, filters, saved results.
+- Donation Checkout Prototype: React, form validation, checkout states.
+
+Contact
+hello@dustinschaaf.dev
